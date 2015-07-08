@@ -35,7 +35,8 @@ let CardHeader = React.createClass({
       },
       text: {
         display: 'inline-block',
-        verticalAlign: 'top'
+        verticalAlign: 'top',
+        flex: 1
       },
       avatar: {
         marginRight:16
